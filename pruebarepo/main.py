@@ -5,6 +5,9 @@ def division(x,y):
     return x/y
 
 def suma(x,y):
+    """
+    Esto es una suma
+    """
     return x+y
 
 respuesta = resta(7,5)
