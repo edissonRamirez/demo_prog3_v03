@@ -8,7 +8,7 @@ def suma(x,y):
     """
     Esto es una suma
     """
-    return x+y
+    return x*y
 
 respuesta = resta(7,5)
 print("resultado es "+str(respuesta))
